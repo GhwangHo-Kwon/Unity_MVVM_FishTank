@@ -416,3 +416,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/Fish_Tank/Library
+/Fish_Tank/Temp
